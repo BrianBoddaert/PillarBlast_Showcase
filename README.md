@@ -4,7 +4,7 @@ Pillarblast is a Unity passion project that I made together with Paul Berkhof an
 
 The mechanics are like battleship but then you can place buildings and generate income.
 
-I post this on here to show off my Unity experience for portfolio purposes.
+The sourcecode is not public, but this is posted to show my Unity experience.
 
 https://youtu.be/Xzgfnm00iuA
 
